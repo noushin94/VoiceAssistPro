@@ -119,9 +119,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 Name: Noushin
-Email: Noushinahmadvand94@outlook.com
+Email: noushin_ahmadvand@yahoo.com
 GitHub: noushin94
-Made with ❤️ by VoiceAssist Pro Team
+
 
 ## 🌟 Acknowledgements
 
@@ -143,7 +143,7 @@ Educational Tool: Useful for learning and practicing language comprehension and 
 Development Base: A foundation for developers interested in speech processing applications.
 ## 💬 Feedback
 
-If you have any feedback, please reach out to us at your.email@example.com.
+If you have any feedback, please reach out to us at noushin_ahmadvand@yahoo.com
 
 ## ⭐ Don't forget to give this project a star!
 
