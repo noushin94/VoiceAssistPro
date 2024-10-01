@@ -1,0 +1,13 @@
+numpy==1.21.0
+torch==1.9.0
+transformers==4.9.2
+SpeechRecognition==3.8.1
+pyaudio==0.2.11
+pyttsx3==2.90
+sounddevice==0.4.2
+scipy==1.7.0
+unittest2==1.1.0
+noisereduce==2.0.1
+nltk==3.6.2
+spacy==3.1.1
+textblob==0.15.3
