@@ -1,4 +1,3 @@
-
 import sys
 from speech_recognition import recognize_speech
 from speech_synthesis import synthesize_speech
