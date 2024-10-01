@@ -1,5 +1,3 @@
-# src/config.py
-
 # General settings
 SAMPLE_RATE = 16000  # Audio sample rate
 DURATION = 5         # Recording duration in seconds
