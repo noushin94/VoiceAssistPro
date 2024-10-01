@@ -1,5 +1,3 @@
-# tests/test_speech_recognition.py
-
 import unittest
 import sys
 sys.path.append('src')
