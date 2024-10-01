@@ -1,4 +1,3 @@
-
 import pyttsx3
 
 # Initialize the TTS engine
