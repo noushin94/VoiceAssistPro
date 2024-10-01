@@ -1,5 +1,3 @@
-
-
 import numpy as np
 from scipy.signal import lfilter
 import noisereduce as nr
